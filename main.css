@@ -12,7 +12,8 @@ div {
 }
 
 div img {
-	width:30%;
+	width:relative;
+	max-width: 60%;
 	height: auto;
     position:absolute;
     top:0;
